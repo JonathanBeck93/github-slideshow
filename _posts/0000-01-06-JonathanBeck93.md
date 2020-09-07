@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Document Server!"
+title: "Document Server"
 ---
 The Index server then passes the information is has to the Document Server. 
 The Document server then uses custom algorithms to find an retreive the best 
